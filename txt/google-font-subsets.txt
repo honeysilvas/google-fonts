@@ -1,0 +1,15 @@
+latin
+latin-ext
+menu
+greek
+greek-ext
+cyrillic
+cyrillic-ext
+vietnamese
+arabic
+khmer
+lao
+tamil
+bengali
+hindi
+korean
